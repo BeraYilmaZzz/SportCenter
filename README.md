@@ -1,6 +1,6 @@
 # SportCenter
 İlk Web tasarım geliştirme projemde Sport Center adlı web sitesini tasarladım. 
-
+!! Revize video eklenmiştir. !! 
 Proje isterlerinde
 
 "Our Classes" altında bulunan butonlar aktif olmalı.
